@@ -8,5 +8,7 @@ This repository contains my work on Optimal Recovery: the research papers and th
 
 For a direct access to the paper and zip files of the reproducibles, simply click on the links above. To execute these reproducibles, additional software is sometimes required, in particular:
 
+
 in MATLAB, CVX (http://cvxr.com/cvx/) may be necessary;
+
 in Python, CVXPY (https://www.cvxpy.org/) may be necessary.
