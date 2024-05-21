@@ -2,7 +2,7 @@
 
 This repository contains my work on Optimal Recovery: the research papers and the accompanying reproducible files. These articles are:
 
-* On the Optimal Recovery of Graph Signals. With S.Foucart and N.Veldt. [PDF](OR_Graph/OR_Graph.pdf) / [Reproducible](https://github.com/liaochunyang/ORofGraphSignals)
+* On the Optimal Recovery of Graph Signals. With S.Foucart and N.Veldt. [PDF](OR_Graph/OR_Graph.pdf) / [Reproducible](OR_Graph)
 * Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? With S. Foucart. | [PDF](Hilbert_error_Reg/ORHilbert_Reg.pdf) / [Reproducible](Hilbert_error_Reg/ORHilbert_Reg_repro.zip)
 * Learning from non-random data in Hilbert spaces: an optimal recovery perspective. With S. Foucart, S. Shahrampour, Y. Wang. | [PDF](Non-Random/Learning_OR.pdf) / [Reproducible](Non-Random/repro_LH.zip)
 
